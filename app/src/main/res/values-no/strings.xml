@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lånekalkulator</string>
+    <string name="navigation_drawer_open">Åpne navigasjonsskuffen</string>
+    <string name="navigation_drawer_close">Lukk navigasjonsskuffen</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Innstillinger</string>
+
+    <string name="menu_home">Hjem</string>
+    <string name="menu_gallery">Innstillinger</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="principal">Rektor</string>
+    <string name="interest">Renter</string>
+    <string name="installments">Avdrag</string>
+    <string name="remaining_debt">Gjenstående gjeld</string>
+
+    <string name="repaymentschedule">Nedbetalingsplan</string>
+
+    <string name="annuityloan">Annuitetslån</string>
+
+    <string-array name="loantype">
+        <item>Annuitetslån</item>
+        <item>Serielån</item>
+    </string-array>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Norwegian</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/ct_row"
+    android:layout_height="wrap_content">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="6dp"
+            android:textColor="@color/black"
+            android:background="@color/white"
+            android:gravity="center"
+            android:paddingBottom="6dp"
+            android:layout_marginBottom="1dp"
+            android:textSize="14sp"
+            android:id="@+id/tv_item1"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="6dp"
+            android:gravity="center"
+            android:paddingBottom="6dp"
+            android:layout_marginStart="1dp"
+            android:textColor="@color/black"
+            android:background="@color/white"
+            android:textSize="14sp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tv_item2"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="6dp"
+            android:gravity="center"
+            android:paddingBottom="6dp"
+            android:layout_marginStart="1dp"
+            android:textColor="@color/black"
+            android:background="@color/white"
+            android:textSize="14sp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tv_item3"/>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingTop="6dp"
+            android:gravity="center"
+            android:paddingBottom="6dp"
+            android:layout_marginStart="1dp"
+            android:textColor="@color/black"
+            android:background="@color/white"
+            android:textSize="14sp"
+            android:layout_marginBottom="1dp"
+            android:id="@+id/tv_item4"/>
+
+    </TableRow>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
